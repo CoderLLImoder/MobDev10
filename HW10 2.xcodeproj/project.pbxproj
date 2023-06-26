@@ -11,6 +11,7 @@
 		732C29452A47144B001A2996 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732C29442A47144B001A2996 /* ContentView.swift */; };
 		732C29472A47144C001A2996 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 732C29462A47144C001A2996 /* Assets.xcassets */; };
 		732C294A2A47144C001A2996 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 732C29492A47144C001A2996 /* Preview Assets.xcassets */; };
+		732C29512A4839D5001A2996 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732C29502A4839D5001A2996 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		732C29442A47144B001A2996 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		732C29462A47144C001A2996 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		732C29492A47144C001A2996 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		732C29502A4839D5001A2996 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				732C29422A47144B001A2996 /* HW10App.swift */,
 				732C29442A47144B001A2996 /* ContentView.swift */,
+				732C29502A4839D5001A2996 /* ViewController.swift */,
 				732C29462A47144C001A2996 /* Assets.xcassets */,
 				732C29482A47144C001A2996 /* Preview Content */,
 			);
@@ -102,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 732C293A2A47144B001A2996 /* Build configuration list for PBXProject "HW10" */;
+			buildConfigurationList = 732C293A2A47144B001A2996 /* Build configuration list for PBXProject "HW10 2" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				732C29512A4839D5001A2996 /* ViewController.swift in Sources */,
 				732C29452A47144B001A2996 /* ContentView.swift in Sources */,
 				732C29432A47144B001A2996 /* HW10App.swift in Sources */,
 			);
@@ -320,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		732C293A2A47144B001A2996 /* Build configuration list for PBXProject "HW10" */ = {
+		732C293A2A47144B001A2996 /* Build configuration list for PBXProject "HW10 2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				732C294B2A47144C001A2996 /* Debug */,
